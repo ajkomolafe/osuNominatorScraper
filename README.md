@@ -12,3 +12,9 @@ After creating an OAuth Application, enter the Client ID in the file named ```cl
 
 ## Usage
 To use this script, run it in command prompt or an interpreter and follow the steps in the console.
+<<<<<<< Updated upstream
+=======
+
+## Acknowledgments
+Made possible with circleguard's [ossapi Library.](https://github.com/circleguard/ossapi)
+>>>>>>> Stashed changes
