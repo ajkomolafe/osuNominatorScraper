@@ -8,9 +8,7 @@ Outside libraries required are in requirements.txt. To install them:
 
 Additionally, an API key is required from osu!'s [OAuth Settings.](https://osu.ppy.sh/home/account/edit)
 
-After creating an OAuth Application, enter the Client ID in a file named ```client_id.txt``` and the Client Secret in a file named ```client_secret.txt```
-
-Ensure that both of these files are in the same folder as the script.
+After creating an OAuth Application, enter the Client ID in the file named ```client_id.txt``` and the Client Secret in the file named ```client_secret.txt```
 
 ## Usage
 To use this script, run it in command prompt or an interpreter and follow the steps in the console.
