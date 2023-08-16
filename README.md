@@ -13,4 +13,4 @@ After creating an OAuth Application, enter the Client ID in a file named ```clie
 Ensure that both of these files are in the same folder as the script.
 
 ## Usage
-
+To use this script, run it in command prompt or an interpreter and follow the steps in the console.
